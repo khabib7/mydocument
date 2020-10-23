@@ -1,0 +1,2 @@
+https://github.com/khabib7/maven-repo.git
+https://github.com/khabib7/maven-repo.git
